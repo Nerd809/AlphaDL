@@ -1,0 +1,47 @@
+{
+  "job_id": "api_7345292abeab468499a90c39",
+  "mode": "zip_split",
+  "file_url": "https://free-dl2.myalphadl.com/ji0Fyeic_ypdsLlrNPNcbg/O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL.mkv",
+  "suggested_filename": "O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL.mkv",
+  "total_size_bytes": 626020557,
+  "created_at_utc": "2026-05-30T04:01:04.253917+00:00",
+  "zip_folder": "jobs/api_7345292abeab468499a90c39/zip",
+  "zip_main_file": "O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z01",
+      "path": "jobs/api_7345292abeab468499a90c39/zip/O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z02",
+      "path": "jobs/api_7345292abeab468499a90c39/zip/O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z03",
+      "path": "jobs/api_7345292abeab468499a90c39/zip/O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z04",
+      "path": "jobs/api_7345292abeab468499a90c39/zip/O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z05",
+      "path": "jobs/api_7345292abeab468499a90c39/zip/O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z05",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z06",
+      "path": "jobs/api_7345292abeab468499a90c39/zip/O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.z06",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.zip",
+      "path": "jobs/api_7345292abeab468499a90c39/zip/O.K.S01E03.1080p.SoftSub.10bit.WEBRip.6CH.x265.PSA.AlphaDL_split.zip",
+      "size_bytes": 59789795
+    }
+  ]
+}
